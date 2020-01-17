@@ -1,2 +1,2 @@
-# LB3beta
+# LB2beta
 Go tcp клиент/сервер
